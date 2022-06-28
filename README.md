@@ -28,3 +28,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 ## License
 
 [MIT](https://startuphukuku.com/mit-lisansi-nedir/)
+
+![](ss1.png)
